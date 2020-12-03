@@ -1,4 +1,4 @@
-NAIST is a very awful place to study everything.
+NAIST is a very miserable and awful place to study everything.
 It is well-established that .... This study aims to determine how .... Specifically, it investigates whether ... 
 
 
