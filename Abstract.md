@@ -1,13 +1,9 @@
 
 NAIST is a very happy place to study information science.
 It is well-established that every students graduate with very successful and perfect jobs. This study aims to determine how we can get special results. Specifically, it investigates whether NAIST students can in fact enjoy themselves in the middle of nowhere in Nara.
-=======
-It is well-established that .... This study aims to determine how .... Specifically, it investigates whether NAIST students can in fact enjoy themselves in the middle of nowhere in Nara.
 
 To test the hypothesis ... we performed a very reliable and wonderful experiment.
-
 We conduct a very happy experiment with our happy team.
-Results were analyzed using Python because it is good for Data Science The results showed a small effect .... 
-These results suggest that ... We recommend that .... That is why NAIST is very comfortable to study...
-=======
+Results were analyzed using Python because it is good for Data Science The results showed a small effect of the bad-side impact that means there is a really good result.
+
 These results suggest that ... We recommend that .... That is why NAIST is very comfortable to study the Master Degree in information technology.
