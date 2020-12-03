@@ -1,6 +1,6 @@
 
 NAIST is a very happy place to study information science.
-It is well-established that .... This study aims to determine how .... Specifically, it investigates whether NAIST students can in fact enjoy themselves in the middle of nowhere in Nara.
+It is well-established that .... This study aims to determine how we can get special results. Specifically, it investigates whether NAIST students can in fact enjoy themselves in the middle of nowhere in Nara.
 
 To test the hypothesis ... we performed a very good experiment. 
 =======
